@@ -1,5 +1,3 @@
-## 🚀Project Overview
-
 # 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝘄𝗶𝘁𝗵 𝗦𝗼𝗻𝗮𝗿𝗾𝘂𝗯𝗲, 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗚𝗶𝘁𝗵𝘂𝗯 𝗪𝗲𝗯𝗵𝗼𝗼𝗸𝘀 𝗮𝗻𝗱 𝗔𝗪𝗦
 
 
@@ -9,6 +7,7 @@ This repository contains the source and configuration for a production-like CI/C
 
  
 ## Table of Contents
+- [🚀 Project Overview](#🚀-overview)
 - [Key features](#key-features)
 - [Pipeline Workflow](#pipeline-workflow)
 - [Prerequisites](#prerequisites)
@@ -21,7 +20,16 @@ This repository contains the source and configuration for a production-like CI/C
 - [What I learned](#what-i-learned)
 - [Next steps](#Next-steps)
 - [Licence](#licence)
- 
+
+
+## 🚀 Project Overview
+ - Trigger builds on every GitHub push via Webhooks
+ - Run SonarQube static analysis and Quality Gates
+ - Build & tag Docker images automatically
+ - Deploy containers to AWS EC2 (or pull from registry)
+ - Improve release velocity and enforce code quality
+
+ --- 
 ## Key features
 
 - 🖥️ Git & GitHub – Version control + repo management
@@ -132,6 +140,7 @@ Three EC2 instances are used to host the following servers:
 ## Licence
 
 <p>This project is licensed under the MIT License.<p/>
+
 
 
 
