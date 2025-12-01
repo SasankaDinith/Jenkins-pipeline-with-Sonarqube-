@@ -10,7 +10,7 @@ This repository contains the source and configuration for a production-like CI/C
  
 ## Table of Contents
 - [Key features:](#key-features)
-- [Pipeline Workflow](#pipeline-workflow)
+- [Pipeline Workflow (End-to-End):](#pipeline-workflow-(End-to-End))
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
   - [1. Launch EC2 Instances](#1-launch-ec2-instances)
@@ -34,7 +34,7 @@ This repository contains the source and configuration for a production-like CI/C
 - ☁️ AWS EC2 – Three instances hosting Jenkins, SonarQube & Docker nodes
 
 
-## 🔄 Pipeline Workflow (End-to-End)
+## Pipeline Workflow (End-to-End):
 
 - Developer commits code → GitHub Repository
 - GitHub Webhook → Notifies Jenkins instantly
@@ -57,6 +57,7 @@ This repository contains the source and configuration for a production-like CI/C
 
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 Git &nbsp;&nbsp;| &nbsp;&nbsp;GitHub &nbsp;&nbsp;| &nbsp;&nbsp;Jenkins &nbsp;&nbsp;| &nbsp;&nbsp;Docker &nbsp;&nbsp;| &nbsp;&nbsp;SonarQube &nbsp;&nbsp;| &nbsp;&nbsp;GitHub Webhooks &nbsp;&nbsp;| &nbsp;&nbsp;NGINX Ingress &nbsp;&nbsp;| &nbsp;&nbsp;AWS EC2
+
 
 
 
