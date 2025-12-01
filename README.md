@@ -41,3 +41,6 @@ This repository contains the source and configuration for a production-like CI/C
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 Git &nbsp;&nbsp;| &nbsp;&nbsp;GitHub &nbsp;&nbsp;| &nbsp;&nbsp;Jenkins &nbsp;&nbsp;| &nbsp;&nbsp;Docker &nbsp;&nbsp;| &nbsp;&nbsp;SonarQube &nbsp;&nbsp;| &nbsp;&nbsp;GitHub Webhooks &nbsp;&nbsp;| &nbsp;&nbsp;NGINX Ingress &nbsp;&nbsp;| &nbsp;&nbsp;AWS EC2
 
+
+
+
