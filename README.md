@@ -7,7 +7,24 @@ This repository contains the source and configuration for a production-like CI/C
 
  ![image url](https://github.com/SasankaDinith/Automated-Jenkins-CI-CD-Pipeline-with-Sonarqube-Docker-Github-Webhooks-and-AWS/blob/946a5a9bded50b2a1fa6cfcbe03749785d93e64b/assets/README%20img/project%20diagram.png)
 
-## 🔑 Key features:
+ 
+## Table of Contents
+- [Key features:](#key-features)
+- [Pipeline Workflow](#pipeline-workflow)
+- [Prerequisites](#prerequisites)
+- [Setup Instructions](#setup-instructions)
+  - [1. Launch EC2 Instances](#1-launch-ec2-instances)
+  - [2. Install Jenkins, SonarQube, and Docker](#2-install-jenkins-sonarqube-and-docker)
+  - [3. Configure SSH Connections](#3-configure-ssh-connections)
+  - [4. Configure Jenkins Plugins and Jobs](#4-configure-jenkins-plugins-and-jobs)
+- [Pipeline Steps](#pipeline-steps)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+- 
+
+## Key features:
 
 - 🖥️ Git & GitHub – Version control + repo management
 - ⚙️ Jenkins – Orchestrates the entire CI/CD process
@@ -40,6 +57,7 @@ This repository contains the source and configuration for a production-like CI/C
 
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 Git &nbsp;&nbsp;| &nbsp;&nbsp;GitHub &nbsp;&nbsp;| &nbsp;&nbsp;Jenkins &nbsp;&nbsp;| &nbsp;&nbsp;Docker &nbsp;&nbsp;| &nbsp;&nbsp;SonarQube &nbsp;&nbsp;| &nbsp;&nbsp;GitHub Webhooks &nbsp;&nbsp;| &nbsp;&nbsp;NGINX Ingress &nbsp;&nbsp;| &nbsp;&nbsp;AWS EC2
+
 
 
 
