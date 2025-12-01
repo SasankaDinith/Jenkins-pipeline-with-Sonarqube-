@@ -7,7 +7,7 @@ This repository contains the source and configuration for a production-like CI/C
 
  
 ## Table of Contents
-- [🚀 Project Overview](#overview)
+- [🚀Project Overview](#🚀overview)
 - [Key features](#key-features)
 - [Pipeline Workflow](#pipeline-workflow)
 - [Prerequisites](#prerequisites)
@@ -140,6 +140,7 @@ Three EC2 instances are used to host the following servers:
 ## Licence
 
 <p>This project is licensed under the MIT License.<p/>
+
 
 
 
