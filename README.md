@@ -19,8 +19,8 @@ This repository contains the source and configuration for a production-like CI/C
   - [3. Configure Jenkins Plugins and Jobs](#3-Configure-Jenkins-Plugins-and-Jobs)
   - [4. Build a Docker Container and Deploy it](#4-Build-a-Docker-container-and-Deploy-it)
 - [What I learned](#what-i-learned)
-- [Next steps / Improvements](Next-steps-/-iprovements)
-- [Lience](#lience)
+- [Next steps](#Next-steps)
+- [Licence](#licence)
  
 ## Key features
 
@@ -120,7 +120,7 @@ Three EC2 instances are used to host the following servers:
 
 --- 
 
-## Next steps / Improvements
+## Next steps
 
  - Move images to AWS ECR
  - Use Terraform for infrastructure-as-code
@@ -132,6 +132,7 @@ Three EC2 instances are used to host the following servers:
 ## Lience
 
 License: MIT — include a LICENSE file in the repo.
+
 
 
 
