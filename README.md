@@ -22,7 +22,7 @@ This repository contains the source and configuration for a production-like CI/C
 - [Licence](#licence)
 
 
-## Project Overview 🚀
+## Project Overview
  Developed a fully automated CI/CD pipeline designed to streamline software delivery from code commit to production deployment. Every push to the GitHub repository triggers a robust workflow build, test, code  quality analysis, and deployment ensuring security, reliability, and seamless integration with AWS infrastructure.
  
  - Trigger builds on every GitHub push via Webhooks
@@ -142,6 +142,7 @@ Three EC2 instances are used to host the following servers:
 ## Licence
 
 <p>This project is licensed under the MIT License.<p/>
+
 
 
 
