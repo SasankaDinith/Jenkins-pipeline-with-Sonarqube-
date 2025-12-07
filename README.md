@@ -72,7 +72,7 @@ Git &nbsp;&nbsp;| &nbsp;&nbsp;GitHub &nbsp;&nbsp;| &nbsp;&nbsp;Jenkins &nbsp;&nb
 
 --- 
 
-## Setup Instructions
+## Setup Instructions:
 
 ### 1) Launch EC2 Instances on AWS
 
@@ -120,7 +120,7 @@ Three EC2 instances are used to host the following servers:
  ---
 
  
-## What I learned
+## What I learned:
 
  - Real-world pipeline debugging (tokens, credentials, agent configs)
  - SonarQube quality gates and their role in CI
@@ -130,7 +130,7 @@ Three EC2 instances are used to host the following servers:
 
 --- 
 
-## Next steps
+## Next steps:
 
  - Move images to AWS ECR
  - Use Terraform for infrastructure-as-code
@@ -142,6 +142,7 @@ Three EC2 instances are used to host the following servers:
 ## Licence
 
 <p>This project is licensed under the MIT License.<p/>
+
 
 
 
